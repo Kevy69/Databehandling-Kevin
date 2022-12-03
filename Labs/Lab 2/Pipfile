@@ -1,0 +1,28 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+pandas = "*"
+seaborn = "*"
+matplotlib = "*"
+openpyxl = "*"
+ipykernel = "*"
+plotly = "*"
+plotly-express = "*"
+dash = "*"
+datetime = "*"
+nbformat = "*"
+numexpr = "*"
+lxml = "*"
+requests = "*"
+gunicorn = "*"
+dash-bootstrap-components = "<1"
+black = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"

@@ -1,0 +1,16 @@
+dash==2.6.0
+pandas
+gunicorn
+numpy
+seaborn
+matplotlib
+openpyxl
+ipykernel
+plotly
+plotly-express
+datetime 
+nbformat
+numexpr
+lxml
+requests
+dash-bootstrap-components
